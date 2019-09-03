@@ -1,0 +1,60 @@
+{
+  "cardCaseProcedureInstanceRecord" : {
+    "cardCaseType" : "cardCaseType",
+    "date" : "09-22-2018",
+    "productInstanceReference" : "775035",
+    "employeeBusinessUnitReference" : "701554",
+    "customerContactRecordReference" : "757581",
+    "customerReference" : "726987",
+    "caseLocation" : "caseLocation",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "770617",
+      "cardTransactionMerchantReference" : "741012",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "728641",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "742802",
+      "cardTransactionLocationReference" : "735361",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "718077",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "708626",
+      "cardTransactionProductServiceReference" : "776359",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "717191"
+    },
+    "cardTransactionReference" : "763194"
+  },
+  "cardCaseResolutionSchedule" : "cardCaseResolutionSchedule",
+  "resolutionRetrieveActionResponse" : "resolutionRetrieveActionResponse",
+  "resolutionRetrieveActionTaskRecord" : {},
+  "resolutionInstanceAnalysis" : {
+    "resolutionInstanceAnalysisReport" : {},
+    "resolutionInstanceAnalysisRecord" : {},
+    "resolutionInstanceAnalysisParameters" : "resolutionInstanceAnalysisParameters",
+    "resolutionInstanceAnalysisReportType" : "resolutionInstanceAnalysisReportType"
+  },
+  "resolutionInstanceRecord" : {
+    "resolutionCardTransactionRecordReference" : "783056",
+    "resolutionTaskRecord" : {
+      "employeeBusinessUnitReference" : "740800",
+      "resolutionTaskResult" : "resolutionTaskResult",
+      "resolutionTaskWorkProducts" : "resolutionTaskWorkProducts",
+      "correspondenceInstanceReference" : "782612",
+      "correspondenceContent" : "correspondenceContent",
+      "documentContent" : "documentContent",
+      "documentDirectoryEntryInstanceReference" : "752364",
+      "paymentOrderReference" : "775853"
+    }
+  },
+  "resolutionRetrieveActionTaskReference" : "RRATR763919",
+  "resolutionInstanceReport" : {
+    "resolutionInstanceReportType" : "resolutionInstanceReportType",
+    "resolutionInstanceReportRecord" : {},
+    "resolutionInstanceReportParameters" : "resolutionInstanceReportParameters",
+    "resolutionInstanceReport" : {}
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "updateResponseRecord" : {},
+  "chargebackUpdateActionTaskReference" : "CUATR717461",
+  "chargebackInstanceRecord" : {
+    "chargebackInstruction" : "chargebackInstruction",
+    "chargebackCardTransactionRecordReference" : "736721"
+  },
+  "chargebackUpdateActionTaskRecord" : {}
+}

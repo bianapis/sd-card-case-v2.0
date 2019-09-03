@@ -1,0 +1,18 @@
+{
+  "resolutionUpdateActionTaskReference" : "RUATR718002",
+  "resolutionUpdateActionTaskRecord" : {},
+  "resolutionInstanceRecord" : {
+    "resolutionCardTransactionRecordReference" : "775987",
+    "resolutionTaskRecord" : {
+      "employeeBusinessUnitReference" : "775493",
+      "resolutionTaskResult" : "resolutionTaskResult",
+      "resolutionTaskWorkProducts" : "resolutionTaskWorkProducts",
+      "correspondenceInstanceReference" : "722318",
+      "correspondenceContent" : "correspondenceContent",
+      "documentContent" : "documentContent",
+      "documentDirectoryEntryInstanceReference" : "723736",
+      "paymentOrderReference" : "750196"
+    }
+  },
+  "updateResponseRecord" : {}
+}

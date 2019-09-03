@@ -1,0 +1,14 @@
+{
+  "arbitrationUpdateActionTaskReference" : "AUATR727471",
+  "updateResponseRecord" : {},
+  "arbitrationInstanceRecord" : {
+    "networkParticipantNetworkServiceRequestRecord" : {
+      "networkParticipantServiceResult" : "networkParticipantServiceResult",
+      "networkParticipantServiceDateTime" : "09-22-2018",
+      "networkParticipantServiceType" : "networkParticipantServiceType"
+    },
+    "networkParticipantNetworkServiceRequestReference" : "752853",
+    "arbitrationCardTransactionRecordReference" : "708632"
+  },
+  "arbitrationUpdateActionTaskRecord" : {}
+}

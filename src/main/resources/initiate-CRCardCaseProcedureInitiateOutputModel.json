@@ -1,0 +1,10 @@
+{
+  "cardCaseProcedureInstanceRecord" : {
+    "date" : "09-22-2018"
+  },
+  "cardCaseResolutionSchedule" : "cardCaseResolutionSchedule",
+  "cardCaseProcedureInitiateActionRecord" : {},
+  "cardCaseProcedureInstanceReference" : "CCPIR795559",
+  "cardCaseProcedureInstanceStatus" : "cardCaseProcedureInstanceStatus",
+  "cardCaseProcedureInitiateActionReference" : "CCPIAR774957"
+}

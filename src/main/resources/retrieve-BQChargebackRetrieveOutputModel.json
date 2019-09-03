@@ -1,0 +1,51 @@
+{
+  "cardCaseProcedureInstanceRecord" : {
+    "cardCaseType" : "cardCaseType",
+    "date" : "09-22-2018",
+    "productInstanceReference" : "761411",
+    "employeeBusinessUnitReference" : "721579",
+    "customerContactRecordReference" : "739420",
+    "customerReference" : "764899",
+    "caseLocation" : "caseLocation",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "775532",
+      "cardTransactionMerchantReference" : "700145",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "780230",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "759713",
+      "cardTransactionLocationReference" : "798893",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "711959",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "733455",
+      "cardTransactionProductServiceReference" : "763283",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "731638"
+    },
+    "cardTransactionReference" : "720728"
+  },
+  "cardCaseResolutionSchedule" : "cardCaseResolutionSchedule",
+  "chargebackRetrieveActionResponse" : "chargebackRetrieveActionResponse",
+  "chargebackInstanceReport" : {
+    "chargebackInstanceReportRecord" : {},
+    "chargebackInstanceReport" : {},
+    "chargebackInstanceReportParameters" : "chargebackInstanceReportParameters",
+    "chargebackInstanceReportType" : "chargebackInstanceReportType"
+  },
+  "chargebackRetrieveActionTaskReference" : "CRATR719474",
+  "chargebackRetrieveActionTaskRecord" : {},
+  "chargebackInstanceRecord" : {
+    "chargebackInstruction" : "chargebackInstruction",
+    "chargebackCardTransactionRecordReference" : "734625"
+  },
+  "chargebackInstanceAnalysis" : {
+    "chargebackInstanceAnalysisRecord" : {},
+    "chargebackInstanceAnalysisParameters" : "chargebackInstanceAnalysisParameters",
+    "chargebackInstanceAnalysisReport" : {},
+    "chargebackInstanceAnalysisReportType" : "chargebackInstanceAnalysisReportType"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "cardCaseProcedureInstanceRecord" : {
+    "cardCaseType" : "cardCaseType",
+    "date" : "09-22-2018",
+    "productInstanceReference" : "736053",
+    "employeeBusinessUnitReference" : "738859",
+    "customerContactRecordReference" : "704629",
+    "customerReference" : "783668",
+    "caseLocation" : "caseLocation",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "729867",
+      "cardTransactionMerchantReference" : "717728",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "754416",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "706010",
+      "cardTransactionLocationReference" : "790173",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "761476",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "717973",
+      "cardTransactionProductServiceReference" : "775398",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "778322"
+    },
+    "cardTransactionReference" : "745732"
+  },
+  "cardCaseResolutionSchedule" : "cardCaseResolutionSchedule",
+  "cardCaseProcedureRetrieveActionTaskReference" : "CCPRATR750080",
+  "cardCaseProcedureRetrieveActionTaskRecord" : {},
+  "cardCaseProcedureInstanceReportRecord" : {
+    "cardCaseProcedureInstanceReport" : {},
+    "cardCaseProcedureInstanceReportType" : "cardCaseProcedureInstanceReportType",
+    "cardCaseProcedureInstanceReportData" : "cardCaseProcedureInstanceReportData"
+  },
+  "cardCaseProcedureInstanceAnalysis" : {
+    "cardCaseProcedureInstanceAnalysisReportType" : "cardCaseProcedureInstanceAnalysisReportType",
+    "cardCaseProcedureInstanceAnalysisReport" : {},
+    "cardCaseProcedureInstanceAnalysisData" : "cardCaseProcedureInstanceAnalysisData"
+  },
+  "cardCaseProcedureRetrieveActionResponse" : "cardCaseProcedureRetrieveActionResponse"
+}

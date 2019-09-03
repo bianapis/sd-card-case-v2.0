@@ -1,0 +1,15 @@
+{
+  "consolidationUpdateActionTaskRecord" : {},
+  "consolidationInstanceRecord" : {
+    "consolidationCardTransactionRecordReference" : "764121",
+    "consolidationTaskRecord" : {
+      "correspondenceReference" : "764455",
+      "consolidationInstruction" : "consolidationInstruction",
+      "documentDirectoryEntryInstanceReference" : "754759",
+      "consolidationTaskWorkProducts" : "consolidationTaskWorkProducts",
+      "consolidationTaskResult" : "consolidationTaskResult"
+    }
+  },
+  "updateResponseRecord" : {},
+  "consolidationUpdateActionTaskReference" : "CUATR762674"
+}

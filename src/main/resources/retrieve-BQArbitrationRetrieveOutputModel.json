@@ -1,0 +1,56 @@
+{
+  "cardCaseProcedureInstanceRecord" : {
+    "cardCaseType" : "cardCaseType",
+    "date" : "09-22-2018",
+    "productInstanceReference" : "760554",
+    "employeeBusinessUnitReference" : "706070",
+    "customerContactRecordReference" : "714387",
+    "customerReference" : "708990",
+    "caseLocation" : "caseLocation",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "716168",
+      "cardTransactionMerchantReference" : "723634",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "746953",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "705947",
+      "cardTransactionLocationReference" : "787974",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "715214",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "752870",
+      "cardTransactionProductServiceReference" : "703954",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "715635"
+    },
+    "cardTransactionReference" : "777611"
+  },
+  "cardCaseResolutionSchedule" : "cardCaseResolutionSchedule",
+  "arbitrationRetrieveActionResponse" : "arbitrationRetrieveActionResponse",
+  "arbitrationRetrieveActionTaskReference" : "ARATR737126",
+  "arbitrationRetrieveActionTaskRecord" : {},
+  "arbitrationInstanceAnalysis" : {
+    "arbitrationInstanceAnalysisRecord" : {},
+    "arbitrationInstanceAnalysisReportType" : "arbitrationInstanceAnalysisReportType",
+    "arbitrationInstanceAnalysisReport" : {},
+    "arbitrationInstanceAnalysisParameters" : "arbitrationInstanceAnalysisParameters"
+  },
+  "arbitrationInstanceRecord" : {
+    "networkParticipantNetworkServiceRequestRecord" : {
+      "networkParticipantServiceResult" : "networkParticipantServiceResult",
+      "networkParticipantServiceDateTime" : "09-22-2018",
+      "networkParticipantServiceType" : "networkParticipantServiceType"
+    },
+    "networkParticipantNetworkServiceRequestReference" : "786716",
+    "arbitrationCardTransactionRecordReference" : "796704"
+  },
+  "arbitrationInstanceReport" : {
+    "arbitrationInstanceReportParameters" : "arbitrationInstanceReportParameters",
+    "arbitrationInstanceReportRecord" : {},
+    "arbitrationInstanceReportType" : "arbitrationInstanceReportType",
+    "arbitrationInstanceReport" : {}
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "cardCaseProcedureInstanceRecord" : {
+    "cardCaseType" : "cardCaseType",
+    "date" : "09-22-2018",
+    "productInstanceReference" : "719769",
+    "employeeBusinessUnitReference" : "755051",
+    "customerContactRecordReference" : "702857",
+    "customerReference" : "747897",
+    "caseLocation" : "caseLocation",
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "731686",
+      "cardTransactionMerchantReference" : "727526",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "738982",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "766478",
+      "cardTransactionLocationReference" : "756723",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "751753",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "716083",
+      "cardTransactionProductServiceReference" : "757748",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "746195"
+    },
+    "cardTransactionReference" : "770164"
+  },
+  "cardCaseResolutionSchedule" : "cardCaseResolutionSchedule",
+  "consolidationInstanceReport" : {
+    "consolidationInstanceReportType" : "consolidationInstanceReportType",
+    "consolidationInstanceReport" : {},
+    "consolidationInstanceReportParameters" : "consolidationInstanceReportParameters",
+    "consolidationInstanceReportRecord" : {}
+  },
+  "consolidationInstanceAnalysis" : {
+    "consolidationInstanceAnalysisReportType" : "consolidationInstanceAnalysisReportType",
+    "consolidationInstanceAnalysisParameters" : "consolidationInstanceAnalysisParameters",
+    "consolidationInstanceAnalysisRecord" : {},
+    "consolidationInstanceAnalysisReport" : {}
+  },
+  "consolidationInstanceRecord" : {
+    "consolidationCardTransactionRecordReference" : "744048",
+    "consolidationTaskRecord" : {
+      "correspondenceReference" : "791573",
+      "consolidationInstruction" : "consolidationInstruction",
+      "documentDirectoryEntryInstanceReference" : "773298",
+      "consolidationTaskWorkProducts" : "consolidationTaskWorkProducts",
+      "consolidationTaskResult" : "consolidationTaskResult"
+    }
+  },
+  "consolidationRetrieveActionTaskRecord" : {},
+  "consolidationRetrieveActionResponse" : "consolidationRetrieveActionResponse",
+  "consolidationRetrieveActionTaskReference" : "CRATR740868"
+}
